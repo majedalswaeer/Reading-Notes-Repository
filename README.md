@@ -3,7 +3,7 @@
 
 | Name        | link        |
 | ----------- | ----------- |
-| Daily Assignment| go here |
+| lecture01| [go here](class01.md) |
 | Daily Assignment| go here |
 | Daily Assignment| go here |
 | Daily Assignment| go here |
