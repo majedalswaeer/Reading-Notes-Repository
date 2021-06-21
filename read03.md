@@ -1,6 +1,5 @@
 ## List types(HTML BOOK p62-73):
 * Ordered lists: are lists where each item in the list is numbered, example below:
-***
 ```
 <ol>
 <li>Chop potatoes into quarters</li>
@@ -37,8 +36,7 @@
 <dt>Scamorze</dt>
 <dt>Scamorzo</dt>
 ```
-***
-***
+
 ## Boxes Dimensions(HTML p300-329)
 ### To set your own dimensions for a box you can use the height and width properties. The most popular ways to specify the size of a box are to use pixels, percentages, or ems. using like below:
 ```div.box {
@@ -98,8 +96,7 @@ el . textContent = col ors[O];
 ### EXPRESSIONS Types:
 * EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE, like : **var color = 'beige';**
 * EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE , like : **var area = 3 * 2;**
-***
-***
+
 ## Decisions and Loops(switch and if)
 ### if ... e1se statement allows you to provide two sets of code:
  1. one set if the condition evaluates to true 
