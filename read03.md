@@ -12,8 +12,8 @@
 </ol>
 ```
 * Unordered lists: are lists that begin with a bullet point, example below:
-```
-ul>
+
+```ul>
 <li>1kg King Edward potatoes</li>
 <li>100ml milk</li>
 <li>50g salted butter</li>
@@ -22,8 +22,7 @@ ul>
 </ul>
 ```
 * Definition lists: are made up of a set of terms along with the definitions for each of those terms. example below:
-```
-<dl>
+```<dl>
 <dt>Sashimi</dt>
 <dd>Sliced raw fish that is served with 
  condiments such as shredded daikon radish or 
@@ -40,8 +39,7 @@ ul>
 ***
 ## Boxes Dimensions(HTML p300-329)
 ### To set your own dimensions for a box you can use the height and width properties. The most popular ways to specify the size of a box are to use pixels, percentages, or ems. using like below:
-```
-div.box {
+```div.box {
 height: 300px;
 width: 300px;
 background-color: #bbbbaa;}
@@ -50,8 +48,7 @@ height: 75%;
 width: 75%;
 background-color: #0088dd;}
 ```
-```
-td.description {
+```td.description {
 min-width: 450px;
 max-width: 650px;
 text-align: left;
@@ -59,8 +56,7 @@ padding: 5px;
 margin: 0px;}
 ```
 ### also we can overflowing our text as follow:
-```
-p.one {
+```p.one {
 overflow: hidden;}
 p.two {
 overflow: scroll;}
