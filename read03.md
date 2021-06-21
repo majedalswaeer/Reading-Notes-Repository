@@ -1,5 +1,6 @@
 ## List types(HTML BOOK p62-73):
 * Ordered lists: are lists where each item in the list is numbered, example below:
+
 ```
 <ol>
 <li>Chop potatoes into quarters</li>
@@ -22,6 +23,7 @@
 </ul>
 ```
 * Definition lists: are made up of a set of terms along with the definitions for each of those terms. example below:
+
 ```
 <dl>
 <dt>Sashimi</dt>
@@ -84,12 +86,12 @@ padding: 10px;}
 ***
 ## Basic JavaScript Instructions
 ### ARRAYS: An array is a special type of variable. It doesn't just store one value; it stores a list of values. example below:
+
 ```
 var colors; 
 colors ['white', 'black', ' custom']; 
 var el document.getElementByld('col ors'); 
 el . textContent = col ors[O];  
-
 ```
 ## EXPRESSIONS
 ### -An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions. 
