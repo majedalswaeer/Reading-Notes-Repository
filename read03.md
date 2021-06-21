@@ -13,7 +13,8 @@
 ```
 * Unordered lists: are lists that begin with a bullet point, example below:
 
-```ul>
+```
+<ul>
 <li>1kg King Edward potatoes</li>
 <li>100ml milk</li>
 <li>50g salted butter</li>
@@ -22,7 +23,8 @@
 </ul>
 ```
 * Definition lists: are made up of a set of terms along with the definitions for each of those terms. example below:
-```<dl>
+```
+<dl>
 <dt>Sashimi</dt>
 <dd>Sliced raw fish that is served with 
  condiments such as shredded daikon radish or 
