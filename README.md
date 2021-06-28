@@ -8,8 +8,8 @@
 | Read03          | [go here](read03.md) |21-06-2021  |
 | Read04          | [go here](read04.md) |22-06-2021  |
 |read05           | [go here](read05.md) |24-06-2021  |
-|read06           | [go here](read06.md) |            | 
-|Daily Assignment | go here              |            |
+|read06           | [go here](read06.md) |27-06-2021  | 
+|read07           | [go here](read07.md) |28-06-2021  |
 |Daily Assignment | go here              |            |
 |Daily Assignment | go here              |            |
 |Daily Assignment | go here              |            |
