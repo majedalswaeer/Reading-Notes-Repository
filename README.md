@@ -10,6 +10,6 @@
 |Read05           | [go here](read05.md) |24-06-2021  |
 |Read06           | [go here](read06.md) |27-06-2021  | 
 |Read07           | [go here](read07.md) |28-06-2021  |
-|Read08           | [go here](read08.md) |29-06-2021|
-|Daily Assignment | go here              |            |
+|Read08           | [go here](read08.md) |29-06-2021  |
+|Read09           | [go here](read09.md) |30-06-2021  |
 |Daily Assignment | go here              |            |
