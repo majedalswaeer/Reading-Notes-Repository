@@ -12,4 +12,5 @@
 |Read07           | [go here](read07.md) |28-06-2021  |
 |Read08           | [go here](read08.md) |29-06-2021  |
 |Read09           | [go here](read09.md) |30-06-2021  |
-|Read10           | [go here](read10.md) | 01-7-2021  |
+|Read10           | [go here](read10.md) |1-07-2021   |
+|Read11           | [go here](read11.md) |4-07-2021   |
