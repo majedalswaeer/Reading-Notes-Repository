@@ -1,0 +1,2 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+### - i reشd the story of Julia Rozovsky, she is a really hardworker and ahas no limit of ambitions, the project was a lot of info and very detailed, julia was placed in the right WAY AND PROJECT
