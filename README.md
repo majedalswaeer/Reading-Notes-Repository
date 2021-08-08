@@ -1,7 +1,7 @@
 # **Reading Notes**
 ## im majed alswaeer, 23 years old with a B'Sc in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills
-### This repo was created to keep up with my notes during the lecture and the desigred reading in an organized and structured way
-## feel free to check my github account: [Github Acount](https://github.com/majedalswaeer)
+## This repo was created to keep up with my notes during the lecture and the desigred reading in an organized and structured way
+## *feel free to check my github account: [Github Acount](https://github.com/majedalswaeer)*
 
 # **201 courses**
 ## ***Table of Contents***
