@@ -1,4 +1,8 @@
-# **Code 201 Reading Notes**
+# **Reading Notes**
+## im majed alswaeer, 23 years old with a B'Sc in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills
+*feel free to check my github account: [Github Acount](https://github.com/majedalswaeer)
+### This repo was created to keep up with my notes during the lecture and the desigred reading in an organized and structured way
+# **201 courses**
 ## ***Table of Contents***
 
 | Name            | link                 | Date       |
@@ -19,7 +23,7 @@
 |Read14a          | [go here](read14a.md)|7-07-2021   |
 |Read14b          | [go here](read14b.md)|7-07-2021   |
 
-# 301 courses
+# **301 courses**
 ## ***Table of Contents***
 
 | Name            | link                 | Date(dd/mm/yyyy)|
