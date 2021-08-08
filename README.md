@@ -6,7 +6,7 @@
 # **201 courses**
 ## ***Table of Contents***
 
-| Name            | link                 | Date       |
+| Name            | link                 | Date(dd/mm/yyyy)       |
 | --------------- | -------------------  |----------- |
 |Read01           | [go here](class01.md)|20-06-2021  |
 |Read02b          | [go here](class02.md)|21-06-2021  |
@@ -29,5 +29,6 @@
 
 | Name            | link                 | Date(dd/mm/yyyy)|
 | --------------- | -------------------  |----------- |
-|Read01           | [go here](class1_301.md)|8-08-2021| 
+|Read01           | [go here](class1_301.md)|8-08-2021|
+|Read02           | [go here](class2_301.md)|9-08-2021| 
 
