@@ -2,7 +2,7 @@
 ## im majed alswaeer, 23 years old with a B'Sc in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills
 ## This repo was created to keep up with my notes during the lecture and the desigred reading in an organized and structured way
 ## *feel free to check my github account: [Github Acount](https://github.com/majedalswaeer)*
-
+**************************************************************************
 # **201 courses**
 ## ***Table of Contents***
 
@@ -30,5 +30,6 @@
 | Name            | link                 | Date(dd/mm/yyyy)|
 | --------------- | -------------------  |----------- |
 |Read01           | [go here](class1_301.md)|8-08-2021|
-|Read02           | [go here](class2_301.md)|9-08-2021| 
+|Read02           | [go here](class2_301.md)|9-08-2021|
+|Read03           | [go here](class3_301.md)|10-08-2021| 
 
