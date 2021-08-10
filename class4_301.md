@@ -34,9 +34,4 @@ person.driver = person.age >=16 ? 'Yes' : 'No';
   }
 
 ```
-*Ans:
-
-```
-x=y? 'true':'false'
-
-```
+*Ans:  x=y? 'true':'false'
