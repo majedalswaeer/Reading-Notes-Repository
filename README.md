@@ -34,4 +34,5 @@
 |Read03           | [go here](class3_301.md)|10-08-2021| 
 |Read04           | [go here](class4_301.md)|10-08-2021|
 |Read05           | [go here](class5_301.md)|10-08-2021|
+|Read05           | [go here](class6_301.md)|15-08-2021|
 
