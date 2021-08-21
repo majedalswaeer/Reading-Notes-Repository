@@ -35,4 +35,11 @@
 |Read04           | [go here](class4_301.md)|10-08-2021|
 |Read05           | [go here](class5_301.md)|10-08-2021|
 |Read06           | [go here](class6_301.md)|15-08-2021|
+|Read07           | [go here](class7_301.md)|16-08-2021|
+|Read08           | [go here](class8_301.md)|17-08-2021|
+|Read09           | [go here](class9_301.md)|18-08-2021|
+|Read10           | [go here](class10_301.md)|19-08-2021|
+|Read11           | [go here](class11_301.md)|22-08-2021|
+
+
 
