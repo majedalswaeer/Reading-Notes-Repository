@@ -40,6 +40,7 @@
 |Read09           | [go here](class9_301.md)|18-08-2021|
 |Read10           | [go here](class10_301.md)|19-08-2021|
 |Read11           | [go here](class11_301.md)|22-08-2021|
+|Read12           | [go here](class12_301.md)|23-08-2021|
 
 
 
