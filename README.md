@@ -1,9 +1,9 @@
 # **Reading Notes**
-## im majed alswaeer, 23 years old with a B'Sc in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills
+## Im Majed Al-Swaeer, 23 years old with a B'Sc in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills
 ## This repo was created to keep up with my notes during the lecture and the desigred reading in an organized and structured way
 ## *feel free to check my github account: [Github Acount](https://github.com/majedalswaeer)*
 **************************************************************************
-# **201 courses**
+# **201 JS Courses**
 ## ***Table of Contents***
 
 | Name            | link                 | Date(dd/mm/yyyy)       |
@@ -24,7 +24,7 @@
 |Read14a          | [go here](read14a.md)|7-07-2021   |
 |Read14b          | [go here](read14b.md)|7-07-2021   |
 
-# **301 courses**
+# **301 JS Courses**
 ## ***Table of Contents***
 
 | Name            | link                 | Date(dd/mm/yyyy)|
@@ -41,6 +41,14 @@
 |Read10           | [go here](class10_301.md)|19-08-2021|
 |Read11           | [go here](class11_301.md)|22-08-2021|
 |Read12           | [go here](class12_301.md)|23-08-2021|
+
+# **401 Python Courses**
+## ***Table of Contents***
+
+| Name            | link                 | Date(dd/mm/yyyy)       |
+| --------------- | -------------------  |----------- |
+|Read01           | [go here](class01_401.md)|10-10-2021  |
+
 
 
 
