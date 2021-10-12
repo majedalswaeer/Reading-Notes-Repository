@@ -3,7 +3,7 @@
 ## This repo was created to keep up with my notes during the lecture and the desigred reading in an organized and structured way
 ## *feel free to check my github account: [Github Acount](https://github.com/majedalswaeer)*
 **************************************************************************
-## **201 JS Courses**
+## **Code 201 -Foundations of Software Development**
 ### ***Table of Contents***
 
 | Name            | link                 | Date(dd/mm/yyyy)       |
@@ -24,7 +24,7 @@
 |Read14a          | [go here](read14a.md)|7-07-2021   |
 |Read14b          | [go here](read14b.md)|7-07-2021   |
 
-## **301 JS Courses**
+## **Code 301 -Intermediate Software Development**
 ### ***Table of Contents***
 
 | Name            | link                 | Date(dd/mm/yyyy)|
@@ -42,7 +42,7 @@
 |Read11           | [go here](class11_301.md)|22-08-2021|
 |Read12           | [go here](class12_301.md)|23-08-2021|
 
-## **401 Python Courses**
+## **Code 401 -Advanced Software Development**
 ### ***Table of Contents***
 
 | Name            | link                 | Date(dd/mm/yyyy)|
@@ -50,6 +50,7 @@
 |Read01           | [go here](class01_401.md)|10-10-2021  |
 |Read02           | [go here](class02_401.md)|11-10-2021  |
 |Read03           | [go here](class03_401.md)|12-10-2021  |
+|Read04           | [go here](class04_401.md)|13-10-2021  |
 
 
 
