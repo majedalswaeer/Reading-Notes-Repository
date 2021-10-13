@@ -51,6 +51,7 @@
 |Read02           | [go here](class02_401.md)|11-10-2021  |
 |Read03           | [go here](class03_401.md)|12-10-2021  |
 |Read04           | [go here](class04_401.md)|13-10-2021  |
+|Read05           | [go here](class05_401.md)|13-10-2021  |
 
 
 
