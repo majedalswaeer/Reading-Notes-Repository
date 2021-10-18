@@ -15,7 +15,7 @@
 ## What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 * Ans: chatty eb API which expose a large number of small resources, so its a bad thing cuz the more requests, the bigger the load
 ## What status code does a successful GET request return?
-* Ans: eturns HTTP status code 200 (OK).
+* Ans: returns HTTP status code 200 (OK).
 ## What status code does an unsuccessful GET request return?
 * Ans: method should return 404 (Not Found).
 ## What status code does a successful POST request return?
