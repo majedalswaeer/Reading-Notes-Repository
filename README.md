@@ -51,12 +51,12 @@
 |Read02           | [go here](class02_401.md)|11-10-2021  |
 |Read03           | [go here](class03_401.md)|12-10-2021  |
 |Read04           | [go here](class04_401.md)|13-10-2021  |
-|Read05           | [go here](class05_401.md)|13-10-2021  |
-|Read06           | [go here](class06_401.md)|14-10-2021  |
-|Read07           | [go here](class07_401.md)|15-10-2021  |
-|Read08           | [go here](class08_401.md)|15-10-2021  |
-|Read09           | [go here](class09_401.md)|15-10-2021  |
-|Read10           | [go here](class10_401.md)|15-10-2021  |
+|Read05           | [go here](class05_401.md)|14-10-2021  |
+|Read06           | [go here](class06_401.md)|15-10-2021  |
+|Read07           | [go here](class07_401.md)|16-10-2021  |
+|Read08           | [go here](class08_401.md)|17-10-2021  |
+|Read09           | [go here](class09_401.md)|18-10-2021  |
+|Read10           | [go here](class10_401.md)|19-10-2021  |
 
 
 
