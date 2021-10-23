@@ -57,6 +57,7 @@
 |Read08           | [go here](class08_401.md)|17-10-2021  |
 |Read09           | [go here](class09_401.md)|18-10-2021  |
 |Read10           | [go here](class10_401.md)|19-10-2021  |
+|Read11           | [go here](class11_401.md)|19-10-2021  |
 
 
 
