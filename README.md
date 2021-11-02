@@ -63,6 +63,7 @@
 |Read14           | [go here](class14_401.md)|27-10-2021  |
 |Read15           | [go here](class15_401.md)|28-10-2021  |
 |Read16           | [go here](class16_401.md)|31-10-2021  |
-|Read17           | [go here](class17_401.md)|1-11-2021  |
+|Read17           | [go here](class17_401.md)|1-11-2021   |
+|Read17           | [go here](class18_401.md)|2-11-2021   |
 
 
