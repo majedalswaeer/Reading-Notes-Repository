@@ -64,6 +64,6 @@
 |Read15           | [go here](class15_401.md)|28-10-2021  |
 |Read16           | [go here](class16_401.md)|31-10-2021  |
 |Read17           | [go here](class17_401.md)|1-11-2021   |
-|Read17           | [go here](class18_401.md)|2-11-2021   |
+|Read18           | [go here](class18_401.md)|2-11-2021   |
 
 
