@@ -73,5 +73,6 @@
 |Read31           | [go here](class31_401.md)|21-11-2021   |
 |Read32           | [go here](class32_401.md)|22-11-2021   |
 |Read33           | [go here](class33_401.md)|23-11-2021   |
+|Read34           | [go here](class34_401.md)|24-11-2021   |
 
 
