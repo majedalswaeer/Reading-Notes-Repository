@@ -77,4 +77,5 @@
 |Read35           | [go here](class35_401.md)|25-11-2021   |
 |Read36           | [go here](class36_401.md)|28-11-2021   |
 |Read37           | [go here](class37_401.md)|29-11-2021   |
+|Read38           | [go here](class38_401.md)|29-11-2021   |
 
