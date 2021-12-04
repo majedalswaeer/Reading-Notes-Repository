@@ -78,5 +78,6 @@
 |Read36           | [go here](class36_401.md)|28-11-2021   |
 |Read37           | [go here](class37_401.md)|29-11-2021   |
 |Read38           | [go here](class38_401.md)|30-11-2021   |
-|Read39           | [go here](class39_401.md)|1-12-2021   |
+|Read39           | [go here](class39_401.md)|1-12-2021    |
+|Read41           | [go here](class41_401.md)|5-12-2021    |
 
